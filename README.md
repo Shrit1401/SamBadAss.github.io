@@ -2,7 +2,7 @@
 <html>
 #hello noob Samuel 
 
-There's a special thing in the website which took me f***king 5 hours hence it will load it a minute or <b>SO KINDLY FUCKING WAIT</b>
+<u>There's a special thing in the website which took me f***king 5 hours hence it will load it a minute or <b>SO KINDLY FUCKING WAIT</b></u>
 
 So here is your content - https://shrit1401.github.io/SamBadass.github.io/
 
